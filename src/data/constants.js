@@ -11,7 +11,7 @@ export const Bio = {
     "Passionate machine learning and deep learning researcher and web developer with hands-on experience in Python, TensorFlow, and MERN. Seeking a challenging role in a forward-thinking tech company to leverage my analytical skills and drive innovation. Independent, self-motivated, and committed to continuous learning and advancing the field of machine learning and deep learning.",
   github: "https://github.com/Gomukha30",
   resume:
-    "https://drive.google.com/file/d/1vRp0t2nk4UKme2CgoF-3l4e1pmiTzX75/view?usp=sharing",
+    "https://drive.google.com/file/d/1qqvbHEY4kZ_lzzWXfWOdWKqrdHbmVP0_/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sudheshna-tadikamalla-955738286/",
 };
 
@@ -35,7 +35,7 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
-        name: "Java(Fundamentals)",
+        name: "Java",
         image: "https://education.oracle.com/file/general/p-80-java.png",
       },
     ],
