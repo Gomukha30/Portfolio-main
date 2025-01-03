@@ -191,7 +191,7 @@ export const certificates = [
   {
     id: 9,
     name: "DSA CODEVERSE Contest - Next Wave",
-    img: "public/images/DSA .png",
+    img: "/images/DSA .png",
     date: "December 2024",
   },
 ];
