@@ -11,7 +11,7 @@ export const Bio = {
     "Passionate machine learning and deep learning researcher and web developer with hands-on experience in Python, TensorFlow, and MERN. Seeking a challenging role in a forward-thinking tech company to leverage my analytical skills and drive innovation. Independent, self-motivated, and committed to continuous learning and advancing the field of machine learning and deep learning.",
   github: "https://github.com/Gomukha30",
   resume:
-    "https://drive.google.com/file/d/1qqvbHEY4kZ_lzzWXfWOdWKqrdHbmVP0_/view?usp=sharing",
+    "https://drive.google.com/file/d/1IU6mXH6myxYictP9Yl57ONzyWH7LwjUD/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sudheshna-tadikamalla-955738286/",
 };
 
@@ -154,9 +154,9 @@ export const certificates = [
   },
   {
     id: 3,
-    name: "NPTEL C",
-    img: "images/nptel-c.jpeg",
-    date: "Jan 2023 - April 2023",
+    name: "Career Essentials in Generative AI by Linkedin & Microsoft",
+    img: "/images/Career Essentials in Generative AI.png",
+    date: "Dec 2024",
   },
   {
     id: 4,
@@ -187,6 +187,12 @@ export const certificates = [
     name: "AWS WorkShop - Next Wave",
     img: "/images/aws participation.png",
     date: "June 2024",
+  },
+  {
+    id: 9,
+    name: "DSA CODEVERSE Contest - Next Wave",
+    img: "public/images/DSA .png",
+    date: "December 2024",
   },
 ];
 
