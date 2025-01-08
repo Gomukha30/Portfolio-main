@@ -202,7 +202,7 @@ export const education = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGqLfxq07okuWoPyQIXpi2TActsr5RHVTgbA&s",
     school: "Vellore Institute of Technology AP",
     date: "Aug 2021 - May 2025",
-    grade: "8.51 CGPA",
+    grade: "8.57 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering with Artificial Intelligence and Machine learning as Speciliazation at VITAP. I have completed 6 semesters and have a CGPA of 8.51. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Association for Microsoft Student Chapter, where I worked in Event Management Department",
     degree:
       "Bachelor of Technology - BTech, Computer Science and Engineering AI ML",
