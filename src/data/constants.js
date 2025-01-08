@@ -11,7 +11,7 @@ export const Bio = {
     "Passionate machine learning and deep learning researcher and web developer with hands-on experience in Python, TensorFlow, and MERN. Seeking a challenging role in a forward-thinking tech company to leverage my analytical skills and drive innovation. Independent, self-motivated, and committed to continuous learning and advancing the field of machine learning and deep learning.",
   github: "https://github.com/Gomukha30",
   resume:
-    "https://drive.google.com/file/d/1IU6mXH6myxYictP9Yl57ONzyWH7LwjUD/view?usp=sharing",
+    "https://drive.google.com/file/d/1FU31mI8uU7XZrhHetESa2uqtapUgp1pL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sudheshna-tadikamalla-955738286/",
 };
 
